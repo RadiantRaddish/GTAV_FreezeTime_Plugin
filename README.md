@@ -1,5 +1,3 @@
-# GTAV_FreezeTime_Plugin
-
 # GTA V - Time Freeze Mod (ASI Plugin)
 
 Freeze and unfreeze time in Grand Theft Auto V with a single key press!
