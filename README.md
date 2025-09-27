@@ -16,6 +16,8 @@ Freeze and unfreeze time in Grand Theft Auto V with a single key press!
 
 ### Prerequisites
 
+! This is still an ongoing project. The built .asi files are not availible. However, if you want to experience one of the scripts early you can build the .asi yourself.
+
 - Visual Studio with C++ Desktop tools
 - ScriptHookV SDK (download and extract to a known location)
 
